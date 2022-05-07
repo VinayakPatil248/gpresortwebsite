@@ -1,0 +1,11 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+#galery img{
+	height:180px;
+}
+
+#galery .row{
+	margin-top:15px;
+}
